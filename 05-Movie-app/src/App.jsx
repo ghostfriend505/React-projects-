@@ -9,6 +9,8 @@ export default function App() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState("")
 
+  console.log(import.meta.env.VITE_TMDB_API_KEY)
+
   async function searchMovies() {
     if (!query) return
 
