@@ -34,21 +34,21 @@ Building this shows that you understand:
 
 ## 📁 Project Structure
 
-07-dashboard-app/
-├── src/
-│ ├── components/
-│ │ ├── Sidebar.jsx
-│ │ ├── StatCard.jsx
-│ │ ├── Chart.jsx
-│ │ └── Table.jsx
-│ ├── pages/
-│ │ └── Dashboard.jsx
-│ ├── data/
-│ │ └── mockData.js
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+    07-dashboard-app/
+    ├── src/
+    │ ├── components/
+    │ │ ├── Sidebar.jsx
+    │ │ ├── StatCard.jsx
+    │ │ ├── Chart.jsx
+    │ │ └── Table.jsx
+    │ ├── pages/
+    │ │ └── Dashboard.jsx
+    │ ├── data/
+    │ │ └── mockData.js
+    │ ├── App.jsx
+    │ ├── App.css
+    │ └── main.jsx
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    └── README.md
