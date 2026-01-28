@@ -30,18 +30,19 @@ With this project you learn:
 ## 📁 Project Structure
 
 06-ecommerce-app/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── ProductCard.jsx
-│ │ └── Cart.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ └── CartPage.jsx
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+
+    ├── src/
+    │ ├── components/
+    │ │ ├── Navbar.jsx
+    │ │ ├── ProductCard.jsx
+    │ │ └── Cart.jsx
+    │ ├── pages/
+    │ │ ├── Home.jsx
+    │ │ └── CartPage.jsx
+    │ ├── App.jsx
+    │ ├── App.css
+    │ └── main.jsx
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    └── README.md
